@@ -16,21 +16,20 @@ Dit product wordt zelf ontwikkeld. Software taal wordt nog bepaald. Maar dit zal
 Hoe zorg je ervoor dat je docker systeem veilig is door middel van een zelf geschreven self hosted tool?
 ## Deelvragen
 
-## Wat zijn de best practices om een Docker container te beveiligen?
+### Wat zijn de best practices om een Docker container te beveiligen?
 - (Showroom) Guideline conformity analysis
 - (Library) Literature study
-## Hoe maak ik een prototype om de best practices aan te tonen?
+### Hoe maak ik een prototype om de best practices aan te tonen?
 - (Workshop) Prototyping
-## Is het mogelijk om ISO/NEN eisen te koppelen aan de Docker security best practices?
+### Is het mogelijk om ISO/NEN eisen te koppelen aan de Docker security best practices?
 - (Library) Literature study
-## Hoe maak ik een prototype om een image op kwetsbaarheden te controleren?
+### Hoe maak ik een prototype om een image op kwetsbaarheden te controleren?
 - (Workshop) Prototyping
 ## Scope
-Deze tool wil ik beperken tot images scannen op bekende kwetsbaarheden. Daarnaast wil ik wat security best practices toepassen op de Docker containers. Hieronder maak ik een Moscow model om aan te geven wat er binnen de scope gaat vallen van dit project.
+Deze tool wil ik beperken tot security best practices toepassen op de Docker containers. Hieronder maak ik een Moscow model om aan te geven wat er binnen de scope gaat vallen van dit project.
 
 | Requirement                                                   | MoSCoW |
 | ------------------------------------------------------------- | ------ |
-| (BP) Scan images on known vulnerabilities                          | M      |
 | (BP) Scan for use of a Root container                              | M      |
 | (BP) Scan for use of network segmentation                          | M      |
 | Use ISO/NEN certification and combine with the best practises | S      |
