@@ -30,13 +30,10 @@ Deze tool wil ik beperken tot security best practices toepassen op de Docker con
 
 | Requirement                                                   | MoSCoW |
 | ------------------------------------------------------------- | ------ |
-| (BP) Scan for use of a Root container                              | M      |
-| (BP) Scan for use of network segmentation                          | M      |
+|Use best practices to secure a docker container| M      |
 | Use ISO/NEN certification and combine with the best practises | S      |
 | Deploy container using compose and check for security errors  | C      |
 | Root user container one click fix                             | C      |
-
-(BP) = Best practise
 ## Planning
 
 | Lesweek | Onderdeel                                                                                |

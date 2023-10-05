@@ -8,14 +8,7 @@ We beginnen met het uitleggen wat überhaupt virtualisatie is. Een server repres
 Het begint allemaal met virtualisatie, eerst hadden we een fysieke server per doeleinde. Omdat de hardware nu geen probleem meer is gebruiken we een fysieke servers waarop we mini servers draaien. Om het zelf in beheer te houden veel onderhoud kost, zijn we over naar Infrastructure as a Service. Zelf een server beheren koste veel geld als het fout ging. Het is nu leuk om een kleine server te draaien voor thuisgebruik of voor de MKB markt. Door IaaS te gebruiken leggen we het risico van de hoofdserver te draaien bij de hosting partij.
 
 Docker is een softwarepakket om applicaties gecontaineriseerd te maken. Een container is een mini server die geïsoleerd zou moeten draaien van de hoofdserver. Dit is dus niet altijd het geval en hier gaat mijn onderzoek over. Hoe kun je daadwerkelijk een container veilig draaien op de hoofdserver. Zonder dat de hoofdserver gecompromitteerd raakt.
-
->https://fhict.instructure.com/courses/13422/pages/toelichting-op-de-leeruitkomsten?module_item_id=995067
 ## **_Leeruitkomst 1: Security awareness_**
-
-```
-Je bent in staat om een inhoudelijk gesprekspartner te zijn op het gebied van security awareness en digitale weerbaarheid. Je combineert daarbij domein specifieke kennis met kennis en vaardigheden op het gebied van cybersecurity.
-```
-
 Het is belang dat iedereen op de hoogte is van cybercriminaliteit, wat de risico's zijn en hoe voorkom je een cyberaanval. 
 
 Mijn individuele project gaat over het beveiliging van de infrastructuur, dus meer gericht richting de MKB markt. Het is een technisch onderwerp, die uitdaging bied om een tool te maken die met veel gebruiksgemak ervoor zorgt dat iemand ervoor kan zorgen dat een container veilig kan draaien. Als een bepaalde container wordt blootgesteld aan een virus dan kan dat op een makkelijke manier opgelost worden. Zonder goede beveiliging van de container kan de virus ook de hoofdserver besmetten. Mijn kennis gebied zit op software gebied en ook op de cybersecurity. Door deze domein specifieke kennis te delen, hoop ik dat ik digitale weerbaarheid kan creëren bij het MKB en particulieren. 
@@ -26,15 +19,12 @@ Het groesproject gaat over security awareness te creëren bij particulieren. Wij
 
 Graag verwijs ik je naar het adviesrapport dat we hebben gemaakt voor Interpolis. Om een te begrijpen wat het proces was van dit adviesrapport verwijs ik je naar ons onderzoeksverslag die we gedaan te hebben om tot dit eindproduct te komen.
 ## **_Leeruitkomst 2: Risico's en kansen_**
+Container management is een groeiende trend. Deze technologie is vrij nieuw in het bedrijfsleven. Het is een beter aanpak als je werkt met microservices bijvoorbeeld. Dit houdt in dat je een grote applicatie opsplitst in allemaal kleine componenten. Als je bijvoorbeeld een grote nieuwssite zoals Tweakers.net pakt dan zou je "Nieuws" en "Reviews" een eigen component kunnen maken. Je ziet nog steeds alle component bij elkaar komen visueel, maar op de achtergrond worden ze gesplitst in meerdere containers. Dit zorgt ervoor als er bijvoorbeeld veel verkeer is op het nieuws gedeelte van Tweakers.net dat je die apart zou kunnen opschalen.
 
-```
-Je kunt risico’s en kansen van technologie en trends op het gebied van cyber security inschatten, voorzien van juiste duiding en maatregelen, daarover adviseren aan externe opdrachtgevers en ze toepassen in je eigen beroepspraktijk.
-```
-
-
+Mijn plan is om een risicoanalyse te maken voor het beveiligen van een Docker container. Hierin ga ik in op wat de mogelijke risico's zijn, als je bepaalde maatregelen niet neemt tijdens het aanmaken van een Docker container. 
 ## **_Leeruitkomst 3: Professionaliteit_**
+Ik maak gebruik van het DOT framework. Dit om mijn onderzoek te doen, in deze methode gebruik ik verschillende methodieken zoals "Guideline conformity analysis" en "Prototyping". Deze methodes helpen mij om mijn hoofdvraag te kunnen beantwoorden.
 
-```
-Je werkt en handelt als een responsieve professional over de voortgang van je leerproces. Daarbij handel je ethisch en laat je, op basis van methodisch onderzoek, samenhang tussen kennis over cybersecurity en jouw domein zien.
-```
+Mijn domein voor dit semester is container management, het softwarepakket waarbij ik mijn uitzoek in ga uitvoeren is Docker. Hiervoor ga ik een web applicatie maken waarbij het mogelijk is om de security level van je Docker omgeving in te zien.
 
+Ik wil wekelijks feedback/ feedforward krijgen van de docenten, zodat mijn belanghebbende op de hoogte zijn waar ik mee bezig ben. Daarnaast zorgt de feedback/ feedforward ervoor dat ik tijdens mijn onderzoek op het goede pad blijf zitten en zodat ik voldoe aan de wensen van de docenten.
