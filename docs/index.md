@@ -1,7 +1,7 @@
 ## Inleiding
 Graag neem ik je mee in mijn Cyber Stars semester. Wat heb ik gedaan om de leeruitkomsten te bewijzen. Ik leg in het kopje "Wat is Docker" uit wat je moet weten om mijn onderzoek te begrijpen mocht je Docker nog niet kennen. 
 ## Wat is Docker
-We beginnen met het uitleggen wat überhaupt virtualisatie is. Een server representeert een grote kubus. In deze kubus zitten mini servers die representeren een mini kubus in de grote kubus. In het volgende diagram kun je zien hoe dat eruit ziet:
+We beginnen met het uitleggen wat überhaupt virtualisatie is. Een hoofdserver representeert een grote kubus. In deze kubus zitten mini servers die representeren een mini kubus in de grote kubus. In het volgende diagram kun je zien hoe dat eruit ziet:
 
 ![[KubusUitleg.png]]
 
