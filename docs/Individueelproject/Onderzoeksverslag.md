@@ -27,7 +27,10 @@ Benodigdheden:
 | 1    | docker inspect --format '{{.Config.User}}' <<container_name>>  | Mag niet "0:0" of "root" zijn                |
 | 2    | docker inspect --format '{{.Config.Image}}' <<container_name>> | Naam van de gebruikte image (<<image_naam>>) |
 | 3    | docker inspect --format '{{.Config.User}}' <<image_naam>>      | Mag niet "0:0" of "root" zijn                |
-
+#### Limit Resource Usage
+| Step | Action | Expected result |
+| ---- | ------ | --------------- |
+| 1     ||                 |
 
 
 
