@@ -5,8 +5,10 @@ site_description: Cyber stars portfolio
 
 theme:
     name: 'material'
-    palette:
+    features:
+    - navigation.instant
 
+    palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
