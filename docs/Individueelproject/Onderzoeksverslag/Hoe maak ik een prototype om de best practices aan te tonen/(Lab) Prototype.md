@@ -17,7 +17,7 @@ Uiteindelijk besloten om "Invalid" te gebruik als term om aan te geven wanneer e
 
 ![[Pasted image 20231026110434.png]]
 
-## Lesweek 7
+### Lesweek 7
 Ik streef erna om steeds iteratief de applicatie gebruiksvriendelijker te maken. Het doel is om een professioneel ogende applicatie te ontwikkelen. Deze iteratie heb ik ervoor gezorgd dat de landingspagina gelijk het dashboard is met de testen. Links kun je een nieuwe connectie maken met een andere Docker instantie. En in de sidebar kun je ook filters toepassen. je kan zoeken naar een container en de bestaande filters zijn nu verplaatst naar een logischere locatie volgens mij. Daarnaast heeft de refresh knop een nieuwe locatie rechtsboven gekregen, waar je ook ziet hoeveel containers er totaal getest zijn. Daarnaast kun je ook bij de filters zien hoeveel van die containers een test hebben gehaald, gefaald of niet gelukt zijn om te testen. 
 
 ![[Pasted image 20231026115831.png]]
