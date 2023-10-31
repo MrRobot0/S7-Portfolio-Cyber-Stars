@@ -52,8 +52,6 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
-  - privacy
-
 
 extra_javascript:
   - javascripts/mathjax.js
