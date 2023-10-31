@@ -23,3 +23,8 @@ Ik streef erna om steeds iteratief de applicatie gebruiksvriendelijker te maken.
 ![[Pasted image 20231026115831.png]]
 
 Bij de volgende iteratie wil ik nieuwe testen toevoegen aan de applicatie. Het project kan wat groter worden nu aangezien de planning van dit semester is aangepast dat we nu het hele semester hebben dus nog 10 leswerken ongeveer. Dit was eerst vanaf dit moment 
+
+```ad-seealso
+test
+```
+
