@@ -57,6 +57,7 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+  - glightbox
 
 extra_javascript:
   - javascripts/mathjax.js
