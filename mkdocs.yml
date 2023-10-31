@@ -1,4 +1,7 @@
 site_name: Portfolio Cyber Stars
+site_author: MrRobot0
+copyright: Copyright &copy; 2023 | Cyber stars portfolio
+site_description: Cyber stars portfolio
 
 theme:
     name: 'material'
@@ -67,3 +70,6 @@ extra:
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
+  analytics:
+    provider: google
+    property: G-HG2RB9P1XG
