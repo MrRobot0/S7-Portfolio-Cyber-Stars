@@ -51,7 +51,8 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks 
+  - roamlinks
+  - privacy
 
 
 extra_javascript:
