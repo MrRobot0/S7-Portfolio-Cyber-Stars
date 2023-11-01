@@ -23,5 +23,8 @@ Ik streef erna om steeds iteratief de applicatie gebruiksvriendelijker te maken.
 ![[Pasted image 20231026115831.png]]
 
 Bij de volgende iteratie wil ik nieuwe testen toevoegen aan de applicatie. Het project kan wat groter worden nu aangezien de planning van dit semester is aangepast dat we nu het hele semester hebben dus nog 10 leswerken ongeveer. Dit was eerst tot en met lesweek 10.
+### Lesweek 8
+In het begin van deze lesweek ben ik bezig geweest om de user experience te verbeteren. Ik heb een student met domein kennis over docker gevraagd wat die ervan vond en de feedback van hem verwerkt in een Kanban board die ik deze week heb aangemaakt. 
 
+![[Pasted image 20231031230014.png]]
 
