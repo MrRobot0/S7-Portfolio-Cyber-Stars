@@ -16,8 +16,6 @@ Ik snap dat dit een essentieel onderdeel is van een security strategie, maar daa
 
 Wat ik nog aan deze lijst wil toevoegen is dat ik wil gaan kijken of de images die gebruikt zijn door de containers geüpdatet zijn. Als je een nieuwe container aanmaak dan gebruik je een image, maar als je deze container een jaar geleden aangemaakt hebt, dan krijg je uiteindelijk een verouderde image die mogelijk ook weer kwetsbaarheden bevat.
 
-[Container Security Best Practices (tigera.io)]: https://www.tigera.io/learn/guides/container-security-best-practices/docker-security/#6-Docker-Container-Security-Best-Practices
-
 Ook heb ik bij OWASP [Docker Security Cheat Sheet (owasp.org)] gekeken wat de aanbevelingen zijn ten opzichte van Docker Security. 
 
 - RULE #0 - Keep Host and Docker up to date
@@ -33,4 +31,5 @@ Dit is al geïmplementeerd en stond ook in de vorige bron. Op dit moment check i
 Als je de vlag ‘--privileged’ gebruikt tijdens het draaien van de container, dan kan de container alle Linux kernel capabilities gebruiken. Het beste volgens OWASP is om de vlag ‘--cap-drop all’ te gebruiken, maar dan moet je zelf de benodigde capabilities toevoegen door bijvoorbeeld ‘--cap-add CHOWN’ te gebruiken. 
 
 [Docker Security Cheat Sheet (owasp.org)]: https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
+[Container Security Best Practices (tigera.io)]: https://www.tigera.io/learn/guides/container-security-best-practices/docker-security/#6-Docker-Container-Security-Best-Practices
 
