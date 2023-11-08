@@ -17,4 +17,20 @@ Ik snap dat dit een essentieel onderdeel is van een security strategie, maar daa
 Wat ik nog aan deze lijst wil toevoegen is dat ik wil gaan kijken of de images die gebruikt zijn door de containers geüpdatet zijn. Als je een nieuwe container aanmaak dan gebruik je een image, maar als je deze container een jaar geleden aangemaakt hebt, dan krijg je uiteindelijk een verouderde image die mogelijk ook weer kwetsbaarheden bevat.
 
 [Container Security Best Practices (tigera.io)]: https://www.tigera.io/learn/guides/container-security-best-practices/docker-security/#6-Docker-Container-Security-Best-Practices
-[Docker Security Best Practices (docs.docker.com)]: https://docs.docker.com/develop/security-best-practices/#choose-the-right-base-image
+
+Ook heb ik bij OWASP [Docker Security Cheat Sheet (owasp.org)] gekeken wat de aanbevelingen zijn ten opzichte van Docker Security. 
+
+- RULE #0 - Keep Host and Docker up to date
+Om te zorgen dat bekende kwetsbaarheden gedicht worden is het erg belangrijk om te controleren dat Docker up-to-date is. Ik ga proberen om mijn applicatie te laten checken of Docker daadwerkelijk is geüpdatet naar de laatste versie. Dit is niet iets wat je per container kan checken, dus zal ik mijn tool daarvoor anders moeten gaan inrichten.
+
+- RULE #1 - Do not expose the Docker daemon socket (even to the containers)
+Dit is een goede regel om te checken per container. Momenteel heb ik wel geïmplementeerd dat wanneer je mijn image in een container draait waarbij je de Docker deamon socket onveilig koppelt de applicatie geen actie uitvoert en een foutmelding weergeeft.
+
+- RULE #2 - Set a user
+Dit is al geïmplementeerd en stond ook in de vorige bron. Op dit moment check ik of de root user gebruikt wordt. Als je root gebruikt kan dat ervoor zorgen dat je een kernel attack op de host kan doen.
+
+- RULE #3 - Limit capabilities
+Als je de vlag ‘--privileged’ gebruikt tijdens het draaien van de container, dan kan de container alle Linux kernel capabilities gebruiken. Het beste volgens OWASP is om de vlag ‘--cap-drop all’ te gebruiken, maar dan moet je zelf de benodigde capabilities toevoegen door bijvoorbeeld ‘--cap-add CHOWN’ te gebruiken. 
+
+[Docker Security Cheat Sheet (owasp.org)]: https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
+
