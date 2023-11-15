@@ -33,3 +33,19 @@ Ook heb ik mijn project op github openbaar gezet. Op deze manier kan iedereen bu
 ![[Pasted image 20231102143204.png]]
 ### Lesweek 9
 Deze lesweek ben ik terug naar de tekentafel gegaan om meer testen te vinden, ik heb nu twee testen en een volwassen user interface. Maar nu moet ik nog focussen op testen zodat ik de security nog beter kan testen.
+
+### Lesweek 10
+Deze lesweek heb ik 3 testen van het onderzoek van vorige week geïmplementeerd in mijn prototype, zoals je hieronder kan zien. 'Docker Socket', 'CPU limit' en 'Memory limit' zijn toegevoegd.
+![[Pasted image 20231115124122.png]]
+
+Daarnaast heb ik tooltips toegevoegd om een test uit te leggen voor de gebruiker.
+![[Pasted image 20231115124331.png]]
+
+Ook heb ik tooltips toegevoegd bij elke test die een waarschuwing icoontje heeft zoals hieronder. Deze testen zijn in principe niet geslaagd, maar het is al wel een stap richting het slagen van de test. 
+
+![[Pasted image 20231115124358.png]]
+
+Sommige testen zoals CPU limit en Memory limit zijn niet noodzakelijk om deze groen te hebben dus die hebben een waarschuwing icoontje. 
+
+![[Pasted image 20231115124853.png]]
+
