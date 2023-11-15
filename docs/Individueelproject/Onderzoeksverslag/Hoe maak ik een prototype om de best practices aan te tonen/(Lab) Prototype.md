@@ -31,4 +31,5 @@ In het begin van deze lesweek ben ik bezig geweest om de user experience te verb
 Ook heb ik mijn project op github openbaar gezet. Op deze manier kan iedereen bugs rapporteren. Deze week heeft een vriend van mij al een issue aangemaakt die hij is tegengekomen:
 
 ![[Pasted image 20231102143204.png]]
-
+### Lesweek 9
+Deze lesweek ben ik terug naar de tekentafel gegaan om meer testen te vinden, ik heb nu twee testen en een volwassen user interface. Maar nu moet ik nog focussen op testen zodat ik de security nog beter kan testen.
