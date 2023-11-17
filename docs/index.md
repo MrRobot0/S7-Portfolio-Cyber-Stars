@@ -1,13 +1,5 @@
 ## Inleiding
-Graag neem ik je mee in mijn Cyber Stars semester. Wat heb ik gedaan om de leeruitkomsten te bewijzen. Ik leg in het kopje "Wat is Docker" uit wat je moet weten om mijn onderzoek te begrijpen mocht je Docker nog niet kennen. 
-## Wat is Docker
-We beginnen met het uitleggen wat überhaupt virtualisatie is. Een hoofdserver representeert een grote kubus. In deze kubus zitten mini servers die representeren een mini kubus in de grote kubus. In het volgende diagram kun je zien hoe dat eruit ziet:
-
-![[KubusUitleg.png]]
-
-Het begint allemaal met virtualisatie, eerst hadden we een fysieke server per doeleinde. Omdat de hardware nu geen probleem meer is gebruiken we een fysieke servers waarop we mini servers draaien. Om het zelf in beheer te houden veel onderhoud kost, zijn we over naar Infrastructure as a Service. Zelf een server beheren koste veel geld als het fout ging. Het is nu leuk om een kleine server te draaien voor thuisgebruik of voor de MKB markt. Door IaaS te gebruiken leggen we het risico van de hoofdserver te draaien bij de hosting partij.
-
-Docker is een softwarepakket om applicaties gecontaineriseerd te maken. Een container is een mini server die geïsoleerd zou moeten draaien van de hoofdserver. Dit is dus niet altijd het geval en hier gaat mijn onderzoek over. Hoe kun je daadwerkelijk een container veilig draaien op de hoofdserver. Zonder dat de hoofdserver gecompromitteerd raakt.
+Graag neem ik je mee in mijn Cyber Stars semester. Wat heb ik gedaan om de leeruitkomsten te bewijzen. Op deze pagina leg ik [[Wat is Docker]] uit en wat je moet weten om mijn onderzoek te begrijpen mocht je Docker nog niet kennen. 
 ## Individuele project
 Mijn individuele project gaat over het beveiliging van de infrastructuur, dus meer gericht richting de MKB markt, maar ook juist voor hobbyisten die het leuk vinden om een eigen server te hebben zoals mijzelf. Je denk altijd dat jezelf nooit gehackt gaat worden, maar in tegendeel wordt juist vaak mensen gehackt die niet bewust zijn van hun situatie. Het is een technisch onderwerp, die uitdaging bied om een tool te maken die met veel gebruiksgemak ervoor zorgt dat iemand ervoor kan zorgen dat een container veilig kan draaien. Als een bepaalde container wordt blootgesteld aan een virus dan kan dat op een makkelijke manier opgelost worden. Zonder goede beveiliging van de container kan de virus ook de hoofdserver besmetten. 
 
