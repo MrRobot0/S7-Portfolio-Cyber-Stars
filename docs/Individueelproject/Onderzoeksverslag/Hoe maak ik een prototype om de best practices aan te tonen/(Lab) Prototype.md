@@ -46,6 +46,3 @@ Ook heb ik tooltips toegevoegd bij elke test die een waarschuwing icoontje heeft
 ![[Pasted image 20231115124358.png]]
 
 Sommige testen zoals CPU limit en Memory limit zijn niet noodzakelijk om deze groen te hebben dus die hebben een waarschuwing icoontje.  
-
-![[Pasted image 20231115124853.png]]
-
