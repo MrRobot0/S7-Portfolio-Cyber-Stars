@@ -31,7 +31,8 @@ Deze tool wil ik beperken tot security best practices toepassen op de Docker con
 |Use best practices to secure a docker container| M      |
 | Use ISO/NEN certification and combine with the best practises | S      |
 | Deploy container using compose and check for security errors  | C      |
-| Root user container one click fix                             | C      |
+| Root user container one click fix                             | W      |
+
 ## Planning
 
 | Lesweek | Onderdeel                                                                           |
@@ -45,10 +46,13 @@ Deze tool wil ik beperken tot security best practices toepassen op de Docker con
 
 ## Vervallen deelvragen
 ### Wanneer is een Docker image veilig?
+
 - (Lab) Security test
 - (Showroom) Guideline conformity analysis
 - (Library) Literature study
 ### Hoe maak ik een prototype om de image kwetsbaarheden te laten zien?
+
 - (Workshop) Prototyping
 ### Hoe maak ik een prototype om een image op kwetsbaarheden te controleren?
+
 - (Workshop) Prototyping
