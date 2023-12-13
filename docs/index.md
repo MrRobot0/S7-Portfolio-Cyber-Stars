@@ -4,6 +4,8 @@ Graag neem ik je mee in mijn Cyber Stars semester. Wat heb ik gedaan om de leeru
 Mijn individuele project gaat over het beveiliging van de infrastructuur, dus meer gericht richting de MKB markt, maar ook juist voor hobbyisten die het leuk vinden om een eigen server te hebben zoals mijzelf. Je denk altijd dat jezelf nooit gehackt gaat worden, maar in tegendeel wordt juist vaak mensen gehackt die niet bewust zijn van hun situatie. Het is een technisch onderwerp, die uitdaging bied om een tool te maken die met veel gebruiksgemak ervoor zorgt dat iemand ervoor kan zorgen dat een container veilig kan draaien. Als een bepaalde container wordt blootgesteld aan een virus dan kan dat op een makkelijke manier opgelost worden. Zonder goede beveiliging van de container kan de virus ook de hoofdserver besmetten. 
 
 Graag verwijs ik je naar mijn onderzoeksverslag over Docker container security. Hier heb ik tooling gemaakt om een container veilig te stellen, en ik heb onderzoek gedaan wat de best practices zijn om een container te beveiligen.
+
+![[Pasted image 20231213235242.png]]
 ## **_Leeruitkomst 1: Security awareness_**
 ### Inhoudelijk gesprekspartner
 Het is belang dat iedereen op de hoogte is van cybercriminaliteit, wat de risico's zijn en hoe je een cyberaanval voorkomt. 
