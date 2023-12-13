@@ -47,7 +47,9 @@ Container management is een groeiende trend. Deze technologie is vrij nieuw in h
 |--------------------------|------------------|---------------------|-------------------------|----------------------------|
 | Kennisgebied: Software en Cybersecurity | Delen van domeinspecifieke kennis om digitale weerbaarheid te vergroten | Actief delen van software- en cybersecuritykennis om anderen bewust te maken van digitale weerbaarheid | Bevordering van digitale weerbaarheid bij anderen door het delen van specifieke kennis | Erkennen van het belang van kennisdeling in het versterken van digitale veiligheid. |
 | Toepassing in de praktijk: Microservices bij Tweakers.net | Voorbeeld implementatie van container management bij een nieuwswebsite zoals Tweakers.net | Actief inzetten van container management, bijvoorbeeld bij het opsplitsen van grote applicaties in microservices | Verbeterde schaalbaarheid en beheer van applicatiecomponenten | Begrip van de praktische voordelen van container management in specifieke bedrijfscontexten. |
+
 ## **_Leeruitkomst 2: Risico's en kansen_**
+
 ### Technologie en trends
 Tijdens mijn onderzoek over Docker kom je veel nieuwe trends tegen, maar vaak is de beveiliging nog niet goed op orde. Ik wil erop inspelen dat het voor iedereen toegankelijk is om Docker bijvoorbeeld uit te proberen zonder grote risico's te hoef nemen. Door middel van de geautomatiseerde testen kun je ervoor zorgen dat er geen mogelijk beveilgingslekken binnen een omgeving komen. 
 
