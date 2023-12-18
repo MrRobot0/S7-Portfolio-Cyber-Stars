@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
-                "mode": "preview",
+                "file": "docs/Individueelproject/Onderzoeksverslag/Is het mogelijk om ISO-NEN eisen te koppelen aan de Docker security best practices/(Library) Literature study.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/index.md",
+            "file": "docs/Individueelproject/Onderzoeksverslag/Is het mogelijk om ISO-NEN eisen te koppelen aan de Docker security best practices/(Library) Literature study.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/index.md",
+            "file": "docs/Individueelproject/Onderzoeksverslag/Is het mogelijk om ISO-NEN eisen te koppelen aan de Docker security best practices/(Library) Literature study.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/index.md"
+            "file": "docs/Individueelproject/Onderzoeksverslag/Is het mogelijk om ISO-NEN eisen te koppelen aan de Docker security best practices/(Library) Literature study.md"
           }
         }
       }
@@ -138,9 +138,12 @@
   },
   "active": "f11a9a95ee8161e7",
   "lastOpenFiles": [
-    "docs/Individueelproject/Onderzoeksverslag/Risico analyse Docker test cases.md",
-    "docs/index.md",
+    "docs/Individueelproject/Onderzoeksverslag/Wat zijn de best practices om een Docker container te beveiligen/(Library) Literature study.md",
+    "docs/Individueelproject/Plan van Aanpak.md",
     "docs/Individueelproject/Wat is Docker.md",
+    "docs/index.md",
+    "docs/Assets/Pasted image 20231213235242.png",
+    "docs/Individueelproject/Onderzoeksverslag/Risico analyse Docker test cases.md",
     "Untitled.md",
     "docs/Individueelproject/Onderzoeksverslag/Is het mogelijk om ISO-NEN eisen te koppelen aan de Docker security best practices/(Library) Literature study.md",
     "Test.md",
@@ -150,7 +153,6 @@
     "docs/Assets/Pasted image 20231115124122.png",
     "docs/Assets/Pasted image 20231107210002.png",
     "docs/Assets/Pasted image 20231026115831.png",
-    "docs/Individueelproject/Plan van Aanpak.md",
     "docs/Assets/Pasted image 20231102143204.png",
     "docs/Assets/WhatsApp Image 2023-11-15 at 11.13.11_e7152ab6.jpg",
     "docs/Assets/Pasted image 20231107210103.png",
@@ -158,12 +160,10 @@
     "mkdocs.yml",
     "docs/CNAME",
     "docs/Assets/Pasted image 20231026111147.png",
-    "docs/Assets/Pasted image 20231107205408.png",
     "LICENSE",
     "docs/Groepsproject/Digitaal brevet Privacy en Security.md",
     "docs/Individueelproject/Onderzoeksverslag/Wat zijn de best practices om een Docker container te beveiligen/(Showroom) Guideline conformity analysis.md",
     "docs/Groepsproject",
-    "docs/Individueelproject/Onderzoeksverslag/Wat zijn de best practices om een Docker container te beveiligen/(Library) Literature study.md",
     "docs/Individueelproject/Onderzoeksverslag/Wat zijn de best practices om een Docker container te beveiligen",
     "docs/Individueelproject/Onderzoeksverslag/Hoe maak ik een prototype om de best practices aan te tonen",
     "docs/Individueelproject/Onderzoeksverslag",
