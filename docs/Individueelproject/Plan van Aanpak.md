@@ -43,16 +43,3 @@ Deze tool wil ik beperken tot security best practices toepassen op de Docker con
 | 8       | Hoe maak ik een prototype om de best practices aan te tonen?                        |
 | 9       | Is het mogelijk om ISO/NEN eisen te koppelen aan de Docker security best practises? |
 | 10        | Afronding project                           |
-
-## Vervallen deelvragen
-### Wanneer is een Docker image veilig?
-
-- (Lab) Security test
-- (Showroom) Guideline conformity analysis
-- (Library) Literature study
-### Hoe maak ik een prototype om de image kwetsbaarheden te laten zien?
-
-- (Workshop) Prototyping
-### Hoe maak ik een prototype om een image op kwetsbaarheden te controleren?
-
-- (Workshop) Prototyping
